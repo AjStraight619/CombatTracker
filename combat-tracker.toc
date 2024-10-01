@@ -4,3 +4,6 @@
 ## Author: Alex Straight
 ## Version: 1.0
 ## SavedVariables: CombatTrackerSettings
+
+utils.lua
+main.lua
