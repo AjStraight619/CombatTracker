@@ -1,0 +1,6 @@
+## Interface: 100005  -- The WoW client version
+## Title: Combat Tracker
+## Notes: This is a combat tracker with a timer.
+## Author: Alex Straight
+## Version: 1.0
+## SavedVariables: CombatTrackerSettings
